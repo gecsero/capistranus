@@ -1,6 +1,6 @@
 ---
 layout: page
-title: regestae
+title: regestae_of_the_letters
 permalink: /regestae/
 ---
 
